@@ -208,7 +208,7 @@ shape = SubResource("CapsuleShape2D_e2ckw")
 position = Vector2(0, -3)
 sprite_frames = SubResource("SpriteFrames_3w0hy")
 animation = &"down"
-frame_progress = 0.385756
+frame_progress = 0.551256
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(3, 3)
